@@ -69,8 +69,8 @@ https://github.com/sangbinlee/part-zone-2/settings/hooks
 
 
 # Dashboard
-
-![image](https://github.com/sangbinlee/set-jenkins/assets/4024414/808c4760-8105-4ba2-a30c-3dec33a119cc)
+ 
+![image](https://github.com/sangbinlee/set-jenkins/assets/4024414/1c878033-81c6-497e-86b6-bbf7e2733da1)
 
 
 # Dashboard > catalog > Configuration
