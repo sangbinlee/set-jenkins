@@ -15,7 +15,7 @@ set-jenkins
 
 
 # Webhooks / Manage webhook
-
+  https://github.com/sangbinlee/part-zone-2/settings/hooks
 
 ![image](https://github.com/sangbinlee/set-jenkins/assets/4024414/0c595035-6ea0-45ca-8ada-8d8fc9afa0af)
 
