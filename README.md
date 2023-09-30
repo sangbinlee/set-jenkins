@@ -38,6 +38,7 @@ https://github.com/sangbinlee/part-zone-2/settings/hooks
 
 
 
+![image](https://github.com/sangbinlee/set-jenkins/assets/4024414/77b51bc8-b256-42e8-bd75-0e7860d457a8)
 
 
 
