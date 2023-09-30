@@ -29,7 +29,25 @@ set-jenkins
 
 
 
-#
+# Dashboard > Jenkins 관리 > System > Locale
+
+Default Language : en
+
+https://github.com/sangbinlee/part-zone-2/settings/hooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #
 #
 #
